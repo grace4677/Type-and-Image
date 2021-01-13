@@ -4,3 +4,7 @@
     border-radius: 10px, 20px, 30px, 50px;
     box-shadow:5px 10px#000000;
 }
+h1{
+    font-family: 'Imbue', serif;
+    text-shadow:5px 10px #000000;
+}
