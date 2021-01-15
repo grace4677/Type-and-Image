@@ -3,7 +3,7 @@ img{
     height:auto;
     border-radius: 10px, 20px, 30px, 50px;
     box-shadow:5px 5px lightgray;
-    margin: 20px;
+    margin-right: 200px;
 }
 h1{
     font-family: 'Montserrat', sans-serif;
