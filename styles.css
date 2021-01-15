@@ -2,7 +2,7 @@ img{
     width:40vw;
     height:auto;
     border-radius: 10px, 20px, 30px, 50px;
-    box-shadow:5px 5px lightgray;
+    box-shadow:7px 7px lightgray;
     margin-right: 200px;
 }
 h1{
@@ -12,3 +12,6 @@ h1{
     font-style: italic;
     color:lightslategrey;
     }
+body{
+    background-color: lightyellow;
+}
